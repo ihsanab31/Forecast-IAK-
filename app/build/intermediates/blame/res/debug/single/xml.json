@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Code Android\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_setting.xml",
+        "source": "D:\\Code Android\\Forecast\\app\\src\\main\\res\\xml\\pref_setting.xml"
+    },
+    {
+        "merged": "E:\\Forecast\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_setting.xml",
+        "source": "E:\\Forecast\\app\\src\\main\\res\\xml\\pref_setting.xml"
+    }
+]

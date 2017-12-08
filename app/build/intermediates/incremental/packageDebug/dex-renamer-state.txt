@@ -1,0 +1,7 @@
+#Sat Aug 12 06:52:22 ICT 2017
+base.0=D\:\\Code Android\\Forecast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_04a05e7b887c7f2e3ff1955e01aac8d0becb0186
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Code Android\\Forecast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_143c7a9889e3a61dd2e65cfb8961eb2a3b3d7ad9\\classes.dex
+base.1=D\:\\Code Android\\Forecast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_143c7a9889e3a61dd2e65cfb8961eb2a3b3d7ad9
+file.0=D\:\\Code Android\\Forecast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_04a05e7b887c7f2e3ff1955e01aac8d0becb0186\\classes.dex
